@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: small;
+    font-size: smaller;
     background-color: white;
     padding: 0%;
 }
@@ -19,7 +19,7 @@ body {
 h1 {
     color: rgb(169, 227, 241);
     font-size: 128pt;
-    display: block;
+    padding-bottom: 0%;
 }
 
 ul {
