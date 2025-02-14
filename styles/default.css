@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    padding: 0%;
+}
+
+.wrapper {
+    display: grid;
+    padding: 0%;
+}
+
+.column {
+    max-width: 75%;
+    min-width: 200px;
+    padding: 10px;
+}
+
+h1 {
+    color: lightcyan;
+    font-size: 96pt;
+    display: block;
+}
