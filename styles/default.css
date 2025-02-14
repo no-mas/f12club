@@ -12,11 +12,11 @@ body {
 .column {
     max-width: 75%;
     min-width: 200px;
-    padding: 10px;
+    padding-left: 15%;
 }
 
 h1 {
-    color: lightcyan;
-    font-size: 96pt;
+    color: rgb(169, 227, 241);
+    font-size: 400%;
     display: block;
 }
