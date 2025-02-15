@@ -8,7 +8,7 @@ body {
 
 .wrapper {
     display: grid;
-    grid-template-columns: 25% auto 25%;
+    grid-template-columns: auto 240px 702px auto;
 }
 
 .wrapper > div {
@@ -26,7 +26,7 @@ ul {
     font-size: 108pt;
     font-weight: 800;
     padding: 2px;
-    margin: 0;
+    margin: 2px;
 }
 
 h1,h2,h3,h4,h5,h6 {
