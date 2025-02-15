@@ -23,13 +23,14 @@ ul {
 .f12 {
     color: rgb(250,167,231);
     font-family: Inter,Arial, Helvetica, sans-serif;
-    font-size: 128px;
-    font-weight:800;
-    padding:0;
-    margin:0;
+    font-size: 108pt;
+    font-weight: 800;
+    padding: 2px;
+    margin: 0;
 }
 
 h1,h2,h3,h4,h5,h6 {
+    font-family: Inter,Arial, Helvetica, sans-serif;
     color: rgb(115,220,220);
 }
 
