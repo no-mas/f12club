@@ -8,11 +8,15 @@ body {
 
 .wrapper {
     display: grid;
-    grid-template-columns: auto 240px 702px auto;
+    grid-template-columns: auto 300px 702px auto;
 }
 
-.wrapper > div {
-    padding: 1.25em;
+.lft {
+    padding-right: 1.5em;
+}
+
+.mid {
+    padding-left: 1.5em;
 }
 
 ul {
@@ -23,10 +27,8 @@ ul {
 .f12 {
     color: rgb(250,167,231);
     font-family: Inter,Arial, Helvetica, sans-serif;
-    font-size: 108pt;
+    font-size: 96pt;
     font-weight: 800;
-    padding: 2px;
-    margin: 2px;
 }
 
 h1,h2,h3,h4,h5,h6 {
