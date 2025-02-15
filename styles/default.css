@@ -1,6 +1,7 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12pt;
+    font-family: 'Roboto Slab','DejaVu Serif',Georgia,'Times New Roman',sans-serif;
+    font-size: 14px;
+    line-height: 22px;
     background-color: rgb(246,252,252);
     padding: 0%;
 }
@@ -21,8 +22,8 @@ ul {
 
 .f12 {
     color: rgb(250,167,231);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 96pt;
+    font-family: Inter,Arial, Helvetica, sans-serif;
+    font-size: 128px;
     font-weight:800;
     padding:0;
     margin:0;
@@ -33,6 +34,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .gray {
+    font-family: Inter,Arial, Helvetica, sans-serif;
     font-size: smaller;
     color: rgb(200,200,200);
     text-transform: uppercase;
