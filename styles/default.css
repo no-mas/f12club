@@ -14,13 +14,12 @@ body {
     padding: 1.25em;
 }
 
-h1 {
-    color: rgb(169, 227, 241);
-    font-size: 108pt;
-    padding-bottom: 0%;
-}
-
 ul {
     list-style-type: none;
     list-style-position: outside;
+}
+
+.f12 {
+    color: rgb(169, 227, 241);
+    font-size: 4em;
 }
