@@ -27,9 +27,9 @@ ul {
 .f12 {
     color: rgb(250,167,231);
     font-family: Inter,Arial, Helvetica, sans-serif;
-    font-size: 100pt;
+    font-size: 108pt;
     font-weight: 800;
-    padding: 8px auto;
+    margin: 8px auto;
 }
 
 h1,h2,h3,h4,h5,h6 {
