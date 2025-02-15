@@ -7,7 +7,7 @@ body {
 
 .wrapper {
     display: grid;
-    grid-template-columns: 20% auto 20%;
+    grid-template-columns: 25% auto 25%;
 }
 
 .wrapper > div {
@@ -15,7 +15,7 @@ body {
 }
 
 ul {
-    list-style-type: none;
+    list-style-type: circle;
     list-style-position: outside;
 }
 
@@ -35,4 +35,5 @@ h1,h2,h3,h4,h5,h6 {
 .gray {
     font-size: smaller;
     color: rgb(200,200,200);
+    text-transform: uppercase;
 }
