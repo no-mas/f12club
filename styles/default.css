@@ -5,18 +5,22 @@ body {
     padding: 0%;
 }
 
-.column {
-    max-width: 30em;
-    min-width: 20em;
+.wrapper {
+    display: grid;
+    grid-template-columns: 20% auto 20%;
+}
+
+.wrapper > div {
+    padding: 1.25em;
 }
 
 h1 {
     color: rgb(169, 227, 241);
-    font-size: 128pt;
+    font-size: 108pt;
     padding-bottom: 0%;
 }
 
 ul {
-    list-style-type: circle;
+    list-style-type: none;
     list-style-position: outside;
 }
