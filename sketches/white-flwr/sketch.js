@@ -1,4 +1,4 @@
-llet xoff = 0.0;
+let xoff = 0.0;
 
 function setup() {
   createCanvas(900, 600);
