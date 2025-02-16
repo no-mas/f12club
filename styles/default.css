@@ -26,19 +26,19 @@ ul {
 }
 
 .f12 {
-    color: rgb(173,181,189);
-    font-family: Inter,Arial, Helvetica, sans-serif;
+    color: rgb(205,74,38);
+    font-family: Inter, Arial, Helvetica, sans-serif;
     font-size: 108pt;
     font-weight: 800;
 }
 
 h1 {
-    font-family: Inter,Arial, Helvetica, sans-serif;
+    font-family: Inter, Arial, Helvetica, sans-serif;
     color: rgb(17,126,57);
 }
 
 h2,h3,h4,h5,h6 {
-    font-family: Inter,Arial, Helvetica, sans-serif;
+    font-family: Inter, Arial, Helvetica, sans-serif;
     color: rgb(185,164,101);
 }
 
