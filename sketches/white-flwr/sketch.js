@@ -1,7 +1,7 @@
-let xoff = 0.0;
+llet xoff = 0.0;
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(900, 600);
   background(128, 120, 111);
   stroke(237,237,233);
   noFill();
@@ -12,9 +12,9 @@ function setup() {
 
 function draw() {
   background(128, 120, 111);
-  let xCell = 50;
-  let yCell = 20;
-  let bump = 5;
+  let xCell = 60;
+  let yCell = 30;
+  let bump = 6;
 
   stroke(237,237,233);
   for (let y = yCell; y < height; y += yCell) {
@@ -29,8 +29,9 @@ function draw() {
   for (let y = yCell; y < height-yCell; y += yCell) {
     for (let x = xCell; x < width-xCell; x += xCell) {
       let xmv = noise(xoff) * xCell;
-      rect(x+xmv, y+bump, 3*bump, yCell-(2*bump));
+      rect(x+xmv-(bump/2.0), y+bump, 3*bump, yCell-(2*bump));
       xoff += 0.01;
     }
   }
 }
+
