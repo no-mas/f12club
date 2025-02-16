@@ -1,7 +1,8 @@
 let xoff = 0.0;
 
 function setup() {
-  createCanvas(900, 600);
+  let canvas = createCanvas(900, 600);
+  canvas.parent('sketchID');
   background(228, 224, 211);
   stroke(17, 126, 157);
   strokeWeight(1.3);
