@@ -1,7 +1,7 @@
 let xoff = 0.0;
 
 function setup() {
-  createCanvas(900, 600);
+  let canvas = createCanvas(900, 600);
   background(128, 120, 111);
   stroke(237,237,233);
   noFill();
