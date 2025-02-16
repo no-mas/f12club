@@ -2,7 +2,7 @@ body {
     font-family: 'Noto Serif','Roboto Slab','DejaVu Serif',Georgia,'Times New Roman',sans-serif;
     font-size: 14px;
     line-height: 22px;
-    background-color: rgb(233,226,206);
+    background-color: rgb(228,224,211);
     color: rgb(23,28,22);
     padding: 0%;
 }
@@ -26,25 +26,20 @@ ul {
 }
 
 .f12 {
-    color: rgb(205,74,38);
+    color: rgb(255,136,0);
     font-family: Inter, Arial, Helvetica, sans-serif;
     font-size: 108pt;
     font-weight: 800;
 }
 
-h1 {
+h1,h2,h3,h4,h5,h6 {
     font-family: Inter, Arial, Helvetica, sans-serif;
     color: rgb(17,126,57);
-}
-
-h2,h3,h4,h5,h6 {
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    color: rgb(185,164,101);
 }
 
 .gray {
     font-family: Inter, Arial, Helvetica, sans-serif;
     font-size: smaller;
-    color: rgb(82,104,101);
+    color: rgb(141,144,141);
     text-transform: uppercase;
 }
