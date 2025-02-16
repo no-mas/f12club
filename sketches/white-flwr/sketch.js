@@ -2,6 +2,7 @@ let xoff = 0.0;
 
 function setup() {
   let canvas = createCanvas(900, 600);
+  canvas.parent('sketchID');
   background(128, 120, 111);
   stroke(237,237,233);
   noFill();
