@@ -1,9 +1,9 @@
 body {
-    font-family: 'Noto Serif','Roboto Slab','DejaVu Serif',Georgia,'Times New Roman',sans-serif;
+    font-family: monospace;
     font-size: 14px;
     line-height: 22px;
-    background-color: rgb(228,224,211);
-    color: rgb(23,28,22);
+    background-color: #EBEBEB;
+    color: #2D2D2D;
     padding: 0%;
 }
 
@@ -27,14 +27,14 @@ ul {
 
 .f12 {
     color: rgb(255,136,0);
-    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     font-size: 108pt;
     font-weight: 800;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    color: rgb(17,126,157);
+    font-family: sans-serif;
+    color: #2D2D2D;
 }
 
 .gray {
